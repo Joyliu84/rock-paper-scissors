@@ -8,7 +8,7 @@ try:
     rounds = int(input("How many th number of the Fibonacci sequence would you like to calculate: "))
     if rounds == 0:
         print("Please enter a positive number")
-        
+    
     elif rounds < 0:
         print("Please enter a positive number")
         
